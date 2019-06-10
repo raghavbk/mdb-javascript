@@ -4,14 +4,6 @@
 
 This boilerplate is a set of utilities and plugins for NodeJs to tune and streamline your MDBootstrap (free version) application.
 <br>
-<br>
-
-<p align="center">Huge thanks to the developers of MDBootstrap for creating such an in-depth and awesome UI-Kit.</p>
-<p align="center">
-    Using the <b>Free</b> version of MDB?<br>
-    Consider upgrading to the <b>Pro</b> version for even more features!<br>
-    <a href="https://mdbootstrap.com/material-design-for-bootstrap/?utm_ref_id=29943" target="_blank">MDBootstrap Upgrade</a>
-</p>
 
 # Installation
 
