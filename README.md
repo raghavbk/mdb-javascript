@@ -3,7 +3,6 @@
 # Overview
 
 This boilerplate is a set of utilities and plugins for NodeJs to tune and streamline your MDBootstrap (free version) application.
-<br>
 
 # Installation
 
@@ -12,9 +11,6 @@ First time installation process for Free users:
 ```bash
 npm install
 ```
-
-<br>
-
 ##### Start development server
 ```bash
 npm start
